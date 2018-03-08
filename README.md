@@ -11,15 +11,15 @@ TRaCE:  27.05.2014
 TRaCE+: 11.02.2016  
 
 ## License
-Redistribution and use in source and binary forms, with or without modification, are permitted provided agreeing to the Simplified BSD Style License.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided agreeing to the [Simplified BSD Style License](https://github.com/CABSEL/TRaCE/blob/master/Lincense).
 
-License (TXT, 1 KB)
+Read about Simplified [BSD Style License](http://www.opensource.org/licenses/bsd-license.php)
 
-Read about Simplified BSD Style License at http://www.opensource.org/licenses/bsd-license.php
+## Download & Installation
+### TRaCE
+Download & unzip the [TRaCE.zip](https://github.com/CABSEL/TRaCE/tree/master/TRaCE) file for codes and data. 
 
-Download & Installation
-TRaCE
-Download & unzip the TRaCE.zip (ZIP, 91 MB) file for codes and data. Download & unzip the Trace Codes.zip (ZIP, 1.3 MB) file for codes without data.
+Download & unzip the [Trace Codes.zip]() file for codes without data.
 
-TRaCE+
+### TRaCE+
 Download and unzip the trace-plus-with-data.zip (ZIP, 2.3 MB) for codes and data. Download and unzip the trace-plus.zip (ZIP, 38 KB) for codes without data.
