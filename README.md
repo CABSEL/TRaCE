@@ -19,7 +19,17 @@ Read about Simplified [BSD Style License](http://www.opensource.org/licenses/bsd
 ### TRaCE
 Download & unzip the [TRaCE.zip](https://github.com/CABSEL/TRaCE/tree/master/TRaCE) file for codes and data. 
 
-Download & unzip the [Trace Codes.zip]() file for codes without data.
+Download & unzip the [TraceWithoutData.zip](https://github.com/CABSEL/TRaCE/blob/master/TraceWithoutData.zip) file for codes without data.
 
 ### TRaCE+
-Download and unzip the trace-plus-with-data.zip (ZIP, 2.3 MB) for codes and data. Download and unzip the trace-plus.zip (ZIP, 38 KB) for codes without data.
+Download and unzip the [trace-plus-with-data.zip](https://github.com/CABSEL/TRaCE/blob/master/trace-plus-with-data.zip) for codes and data. 
+
+Download and unzip the [trace-plus.zip](https://github.com/CABSEL/TRaCE/blob/master/trace-plus.zip) for codes without data.
+
+## Please use the following references when using TRaCE and TRaCE+
+- Ud-Dean, SMM., Heise, S., Klamt, S. and Gunawan, R. TRaCE+: Ensemble inference of gene regulatory networks from transcriptional expression profiles of gene knock-out experiments. BMC Bioinformatics 17, 252 (2016). [abstract](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1137-z)
+
+- Ud-Dean, SMM., and Gunawan, R. Ensemble Inference and Inferability of Gene Regulatory Networks. PLoS ONE, 9(8), e103812 (2014). [abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103812)
+
+## Acknowledgement
+This work is supported by funding from Swiss National Science Foundation.
