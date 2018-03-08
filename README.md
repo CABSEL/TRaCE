@@ -1,5 +1,5 @@
 # TRaCE
-
+<img style = "float: right;" src = "https://github.com/CABSEL/TRaCE/blob/master/trace.png" align="right"> 
 Transitive Reduction and Closure Ensemble
 nferring the structure of gene regulatory networks (GRNs) from expression data is a major topic in systems biology. Despite the large number of methods developed for this purpose, such inference is still an open problem. The network inference is often stated to be underdetermined. The underdetermined nature of the network inference problem implies that there could be multiple network solutions to the inference problem, i.e. the solution consists of an ensemble of networks. TRaCE and its extension TRaCE+ were developed using an ensemble inference approach. TRaCE and TRaCE+ generate the upper-bound and lower-bound directed graphs (digraphs) of the GRN ensemble. The difference between the upper and lower bounds (i.e. edges in the upper bound that are not in the lower bound) defines the set of uncertain edges, representing gene regulations that could not be verified by the data. While TRaCE deals with an ensemble of digraphs, TRaCE+ further considers the signs of the edges. A positive edge represents an activation, while a negative edge represents a repression. These ensemble bounds can be used to optimise gene KO experiments (see our tool: [REDUCE](https://github.com/CABSEL/REDUCE)).
 
